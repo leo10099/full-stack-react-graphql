@@ -4,6 +4,14 @@ Course [website](https://www.newline.co/tinyhouse)
 
 ## Course Project
 
+### Stack and features
+
+- React
+- Typescript
+- GraphQL
+- Apollo
+- MongoDB
+
 ### Develop
 
 `npm run start`
